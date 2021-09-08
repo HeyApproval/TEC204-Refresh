@@ -750,7 +750,7 @@ lib.properties = {
 	color: "#333333",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1.jpg?1631041590122", id:"TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1"}
+		{src:"images/TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1.jpg?1631125413865", id:"TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1"}
 	],
 	preloads: []
 };

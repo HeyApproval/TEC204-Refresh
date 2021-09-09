@@ -700,14 +700,14 @@ if (reversed == null) { reversed = false; }
 
 	// HEAD1
 	this.instance = new lib.HEAD1();
-	this.instance.setTransform(95.35,334.5,1,1,0,0,0,90.2,47.5);
+	this.instance.setTransform(95.35,348.5,1,1,0,0,0,90.2,47.5);
 	this.instance.shadow = new cjs.Shadow("rgba(247,146,30,1)",2,2,0);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(248));
 
 	// TAG
 	this.instance_1 = new lib.TAG();
-	this.instance_1.setTransform(-33.6,382,1,1,0,0,0,88.4,11);
+	this.instance_1.setTransform(-33.6,396,1,1,0,0,0,88.4,11);
 	this.instance_1._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(23).to({_off:false},0).to({x:93.55},13,cjs.Ease.quadOut).wait(212));
@@ -726,7 +726,7 @@ if (reversed == null) { reversed = false; }
 
 	// CTA
 	this.instance_4 = new lib.CTA();
-	this.instance_4.setTransform(-57.85,451.05,1.3012,1.3012,0,0,0,41.6,13.1);
+	this.instance_4.setTransform(-57.85,461.05,1.3012,1.3012,0,0,0,41.6,13.1);
 	this.instance_4._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(71).to({_off:false},0).to({x:64.15},7,cjs.Ease.quadOut).wait(170));
@@ -750,7 +750,7 @@ lib.properties = {
 	color: "#333333",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1.jpg?1631125413865", id:"TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1"}
+		{src:"images/TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1.jpg?1631208750981", id:"TEC204_Display_Refresh_B1_1stTouch_160x600_atlas_NP_1"}
 	],
 	preloads: []
 };
